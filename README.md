@@ -1,3 +1,4 @@
+<img width="921" height="2048" alt="WhatsApp Image 2026-04-16 at 08 38 54" src="https://github.com/user-attachments/assets/dcc34b85-3830-4bd9-a544-e87c8c921fdb" />
 # FBrowser
 # Focus Detox Browser
 
