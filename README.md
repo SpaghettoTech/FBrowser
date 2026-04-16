@@ -1,67 +1,101 @@
-# FBrowser
 # Focus Detox Browser
 
-**Focus Detox Browser** è un browser minimalista progettato per eliminare le distrazioni e favorire un utilizzo intenzionale del web. Nessun feed, nessuna ricerca infinita: solo accesso diretto ai contenuti che scegli consapevolmente.
-
-## 🎯 Obiettivo
-Ridurre le distrazioni digitali, migliorare la concentrazione e restituire all’utente il controllo completo su come e quando naviga.
+**Focus Detox Browser** is a minimal, distraction-free Android browser designed to help users reduce digital overload and stay focused.  
+It removes search engines, feeds, and algorithmic distractions, allowing only intentional navigation through direct links.
 
 ---
 
-## 🚀 Funzionalità principali
+## 🎯 Purpose
 
-### 🔗 Navigazione solo tramite link
-- Barra di inserimento **limitata esclusivamente agli URL**
-- Nessun motore di ricerca integrato (niente ricerche tipo Google)
-- Accesso diretto solo ai siti che conosci e scegli di visitare
+The goal of Focus Detox Browser is to promote **intentional web usage** by removing addictive browsing patterns such as:
 
-### 📷 Lettore QR integrato
-- Scanner QR code direttamente dall’app
-- I link rilevati vengono **aperti automaticamente nel browser**
-- Perfetto per accesso rapido senza passaggi intermedi
+- Search engine browsing (e.g. Google-style search loops)
+- Social media feeds
+- Algorithm-driven content discovery
 
-### 🌐 Configurazione DNS personalizzata
-- Seleziona facilmente un DNS preconfigurato per filtraggio e sicurezza
-
-DNS disponibili:
-- all.dns.mullvad.net
-- family.dns.mullvad.net
-- family.adguard-dns.com
-- family.freedns.controld.com
-- dns.adguard-dns.com
-- adblock.dns.mullvad.net
-- x-adguard.freedns.controld.com
-- p2.freedns.controld.com
-- adult-filter-dns.cleanbrowsing.org
-- p3.freedns.controld.com
-- all.freedns.controld.com
-
-- Possibilità di **inserire manualmente un DNS personalizzato**
-
-### 🚫 Blocco siti personalizzato
-- Crea una lista di **domini/siti da bloccare**
-- I siti inseriti non verranno caricati dal browser
-- Ideale per eliminare distrazioni (social, news, ecc.)
-
-### 🔄 Integrazione con altre app
-- Tutti i link aperti da app esterne vengono **reindirizzati automaticamente** a Focus Detox Browser
-- Esperienza coerente e controllata
+Instead, users only access content they explicitly choose.
 
 ---
 
-## 🧠 Filosofia del progetto
-Focus Detox Browser non è pensato per essere un browser completo, ma uno strumento intenzionalmente limitato.
+## 🚀 Key Features
 
-Ogni scelta progettuale è orientata a:
-- ridurre il consumo compulsivo
-- evitare loop di contenuti infiniti
-- aumentare la consapevolezza digitale
+### 🔗 URL-Only Navigation
+- The address bar accepts **only direct links (URLs)**
+- No integrated search engine
+- No keyword-based search results
+- You must know where you want to go
 
 ---
 
-## ⚙️ Ideale per
-- Studenti e professionisti
+### 📷 Built-in QR Code Scanner
+- Scan QR codes directly inside the app
+- Automatically opens detected links in the browser
+- Fast and seamless access to websites without manual input
+
+---
+
+### 🌐 Custom DNS Configuration
+Enhance privacy, filtering, and security by selecting or manually entering a DNS server.
+
+#### Preconfigured DNS options:
+- all.dns.mullvad.net  
+- family.dns.mullvad.net  
+- family.adguard-dns.com  
+- dns.adguard-dns.com  
+- adblock.dns.mullvad.net  
+- family.freedns.controld.com  
+- all.freedns.controld.com  
+- p2.freedns.controld.com  
+- p3.freedns.controld.com  
+- x-adguard.freedns.controld.com  
+- adult-filter-dns.cleanbrowsing.org  
+
+- Manual DNS input supported
+
+---
+
+### 🚫 Website Blocking
+- Add custom domains or URLs to a blocklist
+- Blocked sites will not load inside the browser
+- Ideal for eliminating distractions like:
+  - Social media
+  - News websites
+  - Time-wasting platforms
+
+---
+
+### 🔄 External Link Interception
+- Links opened from other apps are automatically redirected to Focus Detox Browser
+- Ensures a consistent, controlled browsing environment
+
+---
+
+## 🧠 Philosophy
+
+Focus Detox Browser is not designed to compete with full-featured browsers.  
+Instead, it is intentionally restrictive.
+
+Every design decision is focused on:
+
+- Reducing compulsive scrolling
+- Eliminating infinite content loops
+- Increasing digital awareness
+- Supporting deep work and concentration
+
+---
+
+## ⚙️ Ideal For
+
+- Students and professionals
+- Developers and knowledge workers
 - Digital minimalists
-- Chi vuole limitare l’uso impulsivo del web
-- Chi utilizza DNS filtrati per sicurezza e controllo parentale
+- People practicing digital detox
+- Parents implementing controlled browsing environments
+
+---
+
+## 🔍 Keywords
+
+Minimal browser, detox browser, distraction free browser, URL only browser, Android privacy browser, DNS filtering browser, site blocker browser, focus tool, digital wellbeing browser
+
 <img width="921" height="2048" alt="WhatsApp Image 2026-04-16 at 08 38 54" src="https://github.com/user-attachments/assets/dcc34b85-3830-4bd9-a544-e87c8c921fdb" />
