@@ -101,3 +101,6 @@ Every design decision is focused on:
 ## Keywords
 
 Minimal browser, detox browser, distraction free browser, URL only browser, Android privacy browser, DNS filtering browser, site blocker browser, focus tool, digital wellbeing browser
+
+This app uses ZXing (Apache License 2.0)
+https://github.com/zxing/zxing
