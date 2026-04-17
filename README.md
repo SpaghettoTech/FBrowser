@@ -1,4 +1,4 @@
-# Focus Detox Browser
+# 🌐 Focus Detox Browser
 
 <img width="270" height="600" alt="Screenshot_2026-04-16-17-01-47-205_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/d37d2c63-b2cf-40bd-a69f-dd17dc368441" >
 <img width="270" height="600" alt="Screenshot_2026-04-16-16-58-33-486_com fbrowser app debug jpg" src="https://github.com/user-attachments/assets/a5a65808-c115-49f5-9f9d-8ff0f07a1930" >
@@ -9,7 +9,7 @@ It removes search engines, feeds, and algorithmic distractions, allowing only in
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The goal of Focus Detox Browser is to promote **intentional web usage** by removing addictive browsing patterns such as:
 
@@ -21,7 +21,7 @@ Instead, users only access content they explicitly choose.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 🔗 URL-Only Navigation
 - The address bar accepts **only direct links (URLs)**
@@ -31,14 +31,14 @@ Instead, users only access content they explicitly choose.
 
 ---
 
-### 📷 Built-in QR Code Scanner
+### Built-in QR Code Scanner
 - Scan QR codes directly inside the app
 - Automatically opens detected links in the browser
 - Fast and seamless access to websites without manual input
 
 ---
 
-### 🌐 Custom DNS Configuration
+### Custom DNS Configuration
 Enhance privacy, filtering, and security by selecting or manually entering a DNS server.
 
 #### Preconfigured DNS options:
@@ -58,7 +58,7 @@ Enhance privacy, filtering, and security by selecting or manually entering a DNS
 
 ---
 
-### 🚫 Website Blocking
+### Website Blocking
 - Add custom domains or URLs to a blocklist
 - Blocked sites will not load inside the browser
 - Ideal for eliminating distractions like:
@@ -68,13 +68,13 @@ Enhance privacy, filtering, and security by selecting or manually entering a DNS
 
 ---
 
-### 🔄 External Link Interception
+### External Link Interception
 - Links opened from other apps are automatically redirected to Focus Detox Browser
 - Ensures a consistent, controlled browsing environment
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 Focus Detox Browser is not designed to compete with full-featured browsers.  
 Instead, it is intentionally restrictive.
@@ -88,7 +88,7 @@ Every design decision is focused on:
 
 ---
 
-## ⚙️ Ideal For
+## Ideal For
 
 - Students and professionals
 - Developers and knowledge workers
@@ -98,6 +98,6 @@ Every design decision is focused on:
 
 ---
 
-## 🔍 Keywords
+## Keywords
 
 Minimal browser, detox browser, distraction free browser, URL only browser, Android privacy browser, DNS filtering browser, site blocker browser, focus tool, digital wellbeing browser
